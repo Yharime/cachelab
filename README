@@ -1,2 +1,2 @@
-cache.c是partA的模拟缓存
+csim.c是partA的模拟缓存
 trans.c是矩阵转置
